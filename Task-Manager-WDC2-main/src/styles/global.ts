@@ -4,6 +4,7 @@ export const GlobalStyles = createGlobalStyle`
   :root {
     font-size: 62.5%;
     scroll-behavior: smooth;
+    ///fghjkl//
   }
   
   *, input, select, textarea {
